@@ -30,13 +30,3 @@ The project follows a "Manager and Specialists" pattern:
 *   Google Agent Development Kit (`adk`)
 *   Python Dotenv (`python-dotenv`) for environment variable management
 
-## Setup and Installation
-
-Follow these steps to get the project running on your local machine.
-
-### 1. Clone the Repository
-
-```bash
-
-git clone https://github.com/your-BuddheshwarRajput/adk_hotel_customer_service.git
-cd adk_hotel_customer_service
