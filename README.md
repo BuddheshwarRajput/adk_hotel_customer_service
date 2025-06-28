@@ -37,6 +37,6 @@ Follow these steps to get the project running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-# This is a placeholder; replace with your actual repository URL if you use Git
-git clone https://github.com/your-username/travel-bot-v2.git
-cd travel-bot-v2
+
+git clone https://github.com/your-BuddheshwarRajput/adk_hotel_customer_service.git
+cd adk_hotel_customer_service
